@@ -1,0 +1,7 @@
+body {
+    box-sizing: border-box;
+    background-color: #23252C;
+    display: flex;
+    justify-content: center;
+    
+}

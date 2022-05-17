@@ -1,0 +1,68 @@
+.info, .about-section {
+    background-color: #1A1B21;
+    width: 323px;    
+    
+}
+
+.info {
+    color: #FFFFFF;
+    margin-top: 44px;
+    text-align: center;
+}
+
+.name {
+    margin-top: 21px;    
+}
+
+.button {
+    width: 247px;
+    padding: 9px 13px;
+    border-radius: 6px;
+    margin-bottom: 32px;
+}
+
+.about-section {
+    color: #F5F5F5;    
+    
+}
+
+.about-title, .about-description, .interests-description {
+    margin: 0 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.about-title {
+    font-weight: 700;
+    font-size: 20px;
+
+}
+
+.about-description {
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 27px;
+    color: #DCDCDC;
+}
+
+.interests-description {
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 5px;
+    color: #DCDCDC;
+    padding-bottom: 24px;
+    
+}
+
+.footer {
+    background-color: #161619;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 64px;
+    color: #DCDCDC;
+}
